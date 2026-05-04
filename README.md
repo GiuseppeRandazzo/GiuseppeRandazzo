@@ -57,10 +57,7 @@ Ho conseguito la mia formazione tecnica presso l'**ITS Steve Jobs Academy di Pal
 
 <div align="center">
 
-![Giuseppe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiuseppeRandazzo&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeRandazzo&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=GiuseppeRandazzo&theme=dark&hide_border=true&locale=it)
 
 ---
 
