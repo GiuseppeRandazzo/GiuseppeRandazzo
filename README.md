@@ -49,12 +49,12 @@ Ho conseguito la mia formazione tecnica presso l'**ITS Steve Jobs Academy di Pal
 | [🎭 Teatro nella tua città](https://github.com/GiuseppeRandazzo/Il_teatro_nella_tua_citta_progetto_finale_angular_its) | App Angular per scoprire e tracciare spettacoli teatrali per città | TypeScript · Angular    | [Vedi Live](https://giusepperandazzo.github.io/Il_teatro_nella_tua_citta_progetto_finale_angular_its/) |
 | [💼 Pratico Portfolio](https://github.com/GiuseppeRandazzo/pratico-portfolio)                                          | Portfolio personale                                                | HTML · CSS · JavaScript | [Vedi Live](https://giusepperandazzo.github.io/pratico-portfolio/)                                     |
 | [📱 App Portfolio](https://github.com/GiuseppeRandazzo/app_portfolio)                                                  | Web App Portfolio                                                  | HTML · CSS · JavaScript | [Vedi Live](https://giusepperandazzo.github.io/app_portfolio/)                                         |
+| [🎵 Menu Sound](https://github.com/GiuseppeRandazzo/menu_sound)         | Menù audio per la ristorazione, accessibile via QR code | CSS · JavaScript |
 
 ### 🚧 In Sviluppo
 
 | Progetto                                                               | Descrizione                                             | Stack            |
 | ---------------------------------------------------------------------- | ------------------------------------------------------- | ---------------- |
-| [🎵 Menu Sound](https://github.com/GiuseppeRandazzo/menu_sound)         | Menù audio per la ristorazione, accessibile via QR code | CSS · JavaScript |
 | [🍕 Top Restaurant](https://github.com/GiuseppeRandazzo/top_restaurant) | Sito interattivo per una pizzeria                       | TypeScript       |
 
 ---
