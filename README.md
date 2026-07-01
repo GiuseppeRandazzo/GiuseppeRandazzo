@@ -16,7 +16,7 @@
 
 Sono un **Front-End Developer** con una caratteristica che mi distingue nel mondo tech: un solido background nella **comunicazione**, nella **dizione** e nel **public speaking**.
 
-Ho conseguito la mia formazione tecnica presso l'**ITS Steve Jobs Academy di Palermo**, specializzandomi nello sviluppo web front-end. Parallelamente, ho lavorato per anni come **doppiatore** e **docente di dizione** — un percorso che mi ha insegnato precisione, chiarezza e la capacità di comunicare concetti complessi in modo semplice ed efficace.
+Ho conseguito la mia formazione tecnica presso l'**ITS Steve Jobs Academy di Palermo**, specializzandomi nello sviluppo web front-end. Parallelamente, ho lavorato per anni come **doppiatore** e **docente di dizione** un percorso che mi ha insegnato precisione, chiarezza e la capacità di comunicare concetti complessi in modo semplice ed efficace.
 
 > Che si tratti di sviluppare un'interfaccia, presentare un progetto o collaborare in team, so come farmi capire — e so come ascoltare.
 
