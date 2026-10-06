@@ -2,7 +2,7 @@
 
 # Giuseppe Randazzo
 
-### Full Stack Developer · Comunicatore · Docente di Dizione
+### Full Stack Developer · Consulente · Docente di Dizione
 
 *"Codice che parla. Parola che connette."*
 
