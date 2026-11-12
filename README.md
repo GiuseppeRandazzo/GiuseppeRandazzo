@@ -50,24 +50,19 @@ Ho completato la mia formazione tecnica presso l'**ITS Steve Jobs Academy di Pal
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend & API</strong></td>
+    <td align="center"><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Database, Cloud & AI</strong></td>
+    <td align="center"><strong>Database, Cloud & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -99,6 +94,21 @@ Ho completato la mia formazione tecnica presso l'**ITS Steve Jobs Academy di Pal
 | **[🚀 Website Portfolio](https://github.com/GiuseppeRandazzo/Website_Portfolio)** | Portfolio sperimentale sviluppato in Flutter Web con animazioni e pipeline CI/CD automatizzata su GitHub Pages. | `Flutter` · `Dart` · `GitHub Actions` | [Demo](https://giusepperandazzo.github.io/Website_Portfolio/) |
 | **[💼 App Personal Portfolio](https://github.com/GiuseppeRandazzo/App_personal_portofolio)** | Vetrina web elegante dedicata ai progetti di Voice Over e Web Development. | `HTML5` · `SCSS` · `JavaScript` | [Demo](https://giusepperandazzo.github.io/App_personal_portofolio/) |
 | **[🎬 Teatro AI](https://github.com/GiuseppeRandazzo/sviluppo_app_teatrale)** | Web app per caricare copioni teatrali e generare anteprime della messa in scena con voci sintetizzate (TTS). | `JavaScript` · `HTML5` · `CSS3` · `TTS` | — |
+
+---
+
+### 🕒 Ultimi Repository Aggiornati
+
+<!-- AUTO-REPOS:START -->
+| Repository | Descrizione | Linguaggio | Aggiornato |
+| :--- | :--- | :---: | :---: |
+| **[TrailSync_Ride](https://github.com/GiuseppeRandazzo/TrailSync_Ride)** | Sistema full stack per tour ciclistici auto-guidati. Backend Django REST per parsing GPX, calcolo altimetrico e… | `Python` | 12/11/2026 |
+| **[sito-trekking-boschi](https://github.com/GiuseppeRandazzo/sito-trekking-boschi)** | Piattaforma web per l'escursionismo e il turismo lento. Offre una panoramica interattiva di sentieri e percorsi… | `TypeScript` | 12/11/2026 |
+| **[Vocal_Timer](https://github.com/GiuseppeRandazzo/Vocal_Timer)** | Vocal Timer — Tool per Attori e Doppiatori Applicazione web per la gestione di sessioni di riscaldamento vocale,… | `TypeScript` | 20/10/2026 |
+| **[Casting_Board](https://github.com/GiuseppeRandazzo/Casting_Board)** | Casting Board — Piattaforma di Casting Teatrale Piattaforma web che connette registi e compagnie teatrali con attori e… | `TypeScript` | 23/09/2026 |
+| **[virtual_lis](https://github.com/GiuseppeRandazzo/virtual_lis)** | Sviluppo progetto per un tool che rispetti le regole dell'accessibilità per la pubblica amministrazione | `TypeScript` | 13/06/2026 |
+| **[Website_Portfolio](https://github.com/GiuseppeRandazzo/Website_Portfolio)** · [Demo](https://giusepperandazzo.github.io/Website_Portfolio/) | Progetto disponibile su GitHub. | `C++` | 21/05/2026 |
+<!-- AUTO-REPOS:END -->
 
 ---
 
